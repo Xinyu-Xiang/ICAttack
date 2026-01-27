@@ -7,13 +7,12 @@ This is official PyTorch implementation of "[Adversarial perturbation for RGB-T 
 
 ## If this work is helpful to you, please cite it as：
 ```
-@article{Tang2022DIVFusion,
+@article{xiang2026adversarial,
   title={Adversarial perturbation for RGB-T tracking via intra-modal excavation and cross-modal collusion},
-  author={Tang, Linfeng and Xiang, Xinyu and Zhang, Hao and Gong, Meiqi and Ma, Jiayi},
+  author={Xiang, Xinyu and Wu, Xuying and Li, Shengxiang and Yan, Qinglong and Zou, Tong and Zhang, Hao and Ma, Jiayi},
   journal={Information Fusion},
-  volume = {91},
-  pages = {477-493},
-  year = {2023},
+  pages={104183},
+  year={2026},
   publisher={Elsevier}
 }
 ```
