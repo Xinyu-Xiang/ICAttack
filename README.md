@@ -47,7 +47,7 @@ $<PROJECT_ROOT>
 ```
 ### Prepare the tracker
 
-Download the pre-trained models for each tracker (vipt, tbsi, bat, SDSTrack) following their official instructions and place them in the correct directories.
+Download the pre-trained models for each tracker (ViPT, TBSI, BAT, SDSTrack) following their official instructions and place them in the correct directories.
 
 ### Training
 The bash scripts have been modified accordingly. You can run the relevant scripts for training. The hyperparameters have been fixed to the values reported in the paper.
