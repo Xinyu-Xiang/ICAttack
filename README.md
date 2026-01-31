@@ -4,7 +4,7 @@ Adversarial perturbation for RGB-T tracking via intra-modal excavation and cross
 This is the official PyTorch implementation of "[Adversarial perturbation for RGB-T tracking via intra-modal excavation and cross-modal collusion](https://www.sciencedirect.com/science/article/pii/S156625352600062X)"
 
 ## Framework
-![The overall framework of the proposed ICAttack algorithm.](https://github.com/Xinyu-Xiang/ICAttack/assets/framework.jpg)
+![The overall framework of the proposed ICAttack algorithm.](https://github.com/Xinyu-Xiang/ICAttack/blob/main/assets/framework.jpg)
 
 ## Usage
 
