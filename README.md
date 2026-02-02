@@ -4,10 +4,10 @@ Adversarial perturbation for RGB-T tracking via intra-modal excavation and cross
 This is the official PyTorch implementation of "[Adversarial perturbation for RGB-T tracking via intra-modal excavation and cross-modal collusion](https://www.sciencedirect.com/science/article/pii/S156625352600062X)"
 
 ## Demo
-![(a) Original cross-modal video frames without adversarial perturbations. (b)-(d) The attack performance comparisons on a SOTA RGB-T tracker BAT. Our perturbationscan achieve a strong attack capability with high stealthiness on RGB-T tracker, which is tailored for the RGB-T tracking.](https://github.com/Xinyu-Xiang/ICAttack/blob/main/assets/demo.png)
+(a) Original cross-modal video frames without adversarial perturbations. (b)-(d) The attack performance comparisons on a SOTA RGB-T tracker BAT. Our perturbationscan achieve a strong attack capability with high stealthiness on RGB-T tracker, which is tailored for the RGB-T tracking.![(a) Original cross-modal video frames without adversarial perturbations. (b)-(d) The attack performance comparisons on a SOTA RGB-T tracker BAT. Our perturbationscan achieve a strong attack capability with high stealthiness on RGB-T tracker, which is tailored for the RGB-T tracking.](https://github.com/Xinyu-Xiang/ICAttack/blob/main/assets/demo.png)
 
 ## Framework
-![The overall framework of the proposed ICAttack algorithm.](https://github.com/Xinyu-Xiang/ICAttack/blob/main/assets/framework.jpg)
+The overall framework of the proposed ICAttack algorithm.![The overall framework of the proposed ICAttack algorithm.](https://github.com/Xinyu-Xiang/ICAttack/blob/main/assets/framework.jpg)
 
 ## Usage
 
