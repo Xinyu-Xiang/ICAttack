@@ -74,6 +74,19 @@ sh train_sdstrack.sh
 ```
 sh train_tbsi.sh
 ```
+### Ours checkpoint
+'''
+$<PROJECT_ROOT>
+-- checkpoints
+    -- vipt
+        |-- 6.5_6.0mfiattack_60_stealth.pth
+    -- bat
+        |-- 3.5_3.0mfiattack_50_stealth.pth
+    -- sdstrack
+        |-- 5.0_4.0mfiattack_60_stealth.pth
+    -- tbsi
+        |-- 4.0_3.0mfiattack_60_stealth.pth
+'''
 ### Test
 Test scripts are also prepared, as shown below:
 ```
