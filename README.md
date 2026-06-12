@@ -75,6 +75,7 @@ sh train_sdstrack.sh
 sh train_tbsi.sh
 ```
 ### Ours checkpoint
+The checkpoint can be found via the following link: [here](https://pan.baidu.com/s/1X-fQchSdm1yuaKYd1xCfIw?pwd=rjg8), in which the extraction code is: **rjg8**.
 ```
 $<PROJECT_ROOT>
 -- checkpoints
